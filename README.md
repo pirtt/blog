@@ -1,2 +1,4 @@
 # blog
-note something
+记录生活中技术的点点滴滴
+
+## 每天学习一点点
