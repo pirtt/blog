@@ -1,6 +1,6 @@
 # 如何编写一个语言国际话的shell
 
-> Author : `nyhoo`
+> Author : `nyhoo`	:smile:
 
 ## 国际化
 
