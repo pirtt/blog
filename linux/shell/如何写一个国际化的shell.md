@@ -19,6 +19,9 @@ linux下shell命令locale可以查看本地化的一些配置。
 gettext 命令来实现语言之间的翻译工作。
 .mo文件来存放具体的翻译语言信息。（什么是 .mo .po .pot 文件自行科普）
 
+* msgfmt .po文件转换为.mo
+* msgunfmt .mo 文件转换为.po
+* xgettext 源文件提取po信息
 ## gettext用法
 
 gettext [OPTION] [[TEXTDOMAIN] MSGID]

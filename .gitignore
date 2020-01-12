@@ -1,1 +1,5 @@
+# vnote tmp
 *.json
+
+#mo target
+*.mo
